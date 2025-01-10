@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317419147138",
+    "project_id": "moocexam",
+    "storage_bucket": "moocexam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700804282933:android:4912e7b1895a0ea04b8f7c",
+        "android_client_info": {
+          "package_name": "com.example.moocexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfbgTbxhZINNawAnUjYFFsl79SgmjFW3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
