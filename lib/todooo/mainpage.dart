@@ -12,7 +12,8 @@ Future<void> main() async {
         storageBucket: "moocexam.firebasestorage.app"
     ),
   );
-  runApp(MaterialApp(home: TodoApppp()));
+  runApp(MaterialApp(home: TodoApppp(),
+    debugShowCheckedModeBanner: false,));
 }
 
 
